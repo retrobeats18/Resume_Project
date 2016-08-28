@@ -1,3 +1,5 @@
+This project is forked from Udacity as a part of the Front End Nanodegree Program. The base files were provided for us. I have completed all the code in resumeBuilder.js and styled parts of the CSS as well. The Color palette was generated from Coolors (https://coolors.co/).
+
 ## How do I complete this project?
 
 1. Go to the [Javascript Basics course](https://www.udacity.com/course/ud804) and select "View Course Materials."
