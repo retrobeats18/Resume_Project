@@ -27,7 +27,7 @@ h6 {
 h1 {
   font-size: 40px;
   /*color: #f5a623;*/
-  color: #30BCED;
+  color: #30bced;
   line-height: 48px;
   display: inline;
 }
@@ -51,7 +51,7 @@ h3 {
 h4 {
   font-weight: bold;
   font-size: 14px;
-  color: #373F51;
+  color: #373f51;
   line-height: 17px;
 }
 
@@ -60,14 +60,13 @@ h3,
 h4,
 h5 {
   padding:10px 5%;
-
 }
 
 
 .date-text {
   font-style: italic;
   font-size: 14px;
-  color: #373F51;
+  color: #373f51;
   line-height: 16px;
   float: left;
 }
@@ -75,10 +74,9 @@ h5 {
 .location-text {
   font-style: italic;
   font-size: 14px;
-  color: #373F51;
+  color: #373f51;
   line-height: 16px;
   float: right;
-
 }
 
 p {
@@ -97,28 +95,28 @@ a {
 .welcome-message {
   font-style: italic;
   font-size: 18px;
-  color: #E8F7EE;
+  color: #e8f7ee;
   line-height: 28px;
 }
 
 #skills-h3 {
-  color: #30BCED;
+  color: #30bced;
   display: none;
 }
 
 .orange {
-  color: #E8F7EE;
-  background-color: #30BCED;
+  color: #e8f7ee;
+  background-color: #30bced;
 }
 
 .orange-text {
   /*color: #f5ae23;*/
-  color: #30BCED;
+  color: #30bced;
 }
 
 .white-text {
   font-weight: bold;
-  color: #E8F7EE;
+  color: #e8f7ee;
 }
 
 .gray {
