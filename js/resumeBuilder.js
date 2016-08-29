@@ -45,21 +45,14 @@ bio.display = function() {
 
     if (bio.skills.length > 0) {
         bio.skills.forEach(function(skill) {
-            var formattedSkill = HTMLskills.replace('%data%', bio.skills[skill]);
+            var formattedSkill = HTMLskills.replace('%data%', skill);
             $('#skills').append(formattedSkill);
         });
     };
 
-    var formattedMobile = HTMLmobile.replace('%data%', bio.contacts.mobile);
     $('#footerContacts').append(formattedMobile);
-
-    var formattedEmail = HTMLemail.replace('%data%', bio.contacts.email);
     $('#footerContacts').append(formattedEmail);
-
-    var formattedTwitter = HTMLtwitter.replace('%data%', bio.contacts.twitter);
     $('#footerContacts').append(formattedTwitter);
-
-    var formattedGithub = HTMLgithub.replace('%data%', bio.contacts.github);
     $('#footerContacts').append(formattedGithub);
 };
 
